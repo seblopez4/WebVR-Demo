@@ -9,7 +9,7 @@
   <body>
     
       <a-scene>
-        <a-sky src="PANO_20140222_124855.jpg" rotation="0 -130 0"></a-sky>
+        <a-sky src="<iframe width="400px" height="300px" src="http://on.bubb.li/371681ageujl91yh8o3ac0l"></iframe>" rotation="0 -130 0"></a-sky>
       </a-scene>
 
   
