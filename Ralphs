@@ -9,7 +9,7 @@
   <body>
     
       <a-scene>
-        <a-sky src="<iframe width="400px" height="300px" src="http://on.bubb.li/371681ageujl91yh8o3ac0l"></iframe>" rotation="0 -130 0"></a-sky>
+        <a-sky src="http://on.bubb.li371681ageujl91yh8o3ac0l" rotation="0 -130 0"></a-sky>
       </a-scene>
 
   
